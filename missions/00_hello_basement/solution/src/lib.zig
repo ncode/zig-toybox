@@ -2,5 +2,5 @@ const std = @import("std");
 
 pub fn greeting() []const u8 {
     _ = std;
-    return "The basement is still dark.\n";
+    return "Hello from the basement.\n";
 }
