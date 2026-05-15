@@ -1,0 +1,18 @@
+.{
+    .name = .zig_toybox,
+    .version = "0.1.0",
+    .fingerprint = 0x979c_ab51_b6f5_0f6d,
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{},
+    .paths = .{
+        "AGENTS.md",
+        "LEARNERS.md",
+        "LICENSE",
+        "README.md",
+        "build.zig",
+        "build.zig.zon",
+        "docs",
+        "missions",
+        "tasks",
+    },
+}
